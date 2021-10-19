@@ -12,3 +12,4 @@ Finally, we test GraphShap on a real-world brain-network dataset consisting of p
 
 
 The code in this repository allows to re-obtain all results and plots from the paper.
+Some logged files in /data have been compressed to comply with GitHub limits.
